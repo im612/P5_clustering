@@ -1,0 +1,21 @@
+# nombre 
+# de 
+# lignes  nom du fichier
+  102037 df_olist_clean.csv
+   98655 df_olist_clean_all.csv
+   94235 df_olist_clean_all_new.csv
+      48 df_olist_clean_outliers_3000_only.csv
+   93305 df_olist_clean_rfm.csv
+   98298 df_olist_clean_seuil_3000.csv
+   94188 df_olist_clean_seuil_3000_new.csv
+   98555 df_olist_clean_seuil_tot_6000.csv
+   97410 df_olist_clean_seuil_tot_6000_new.csv
+   99442 olist_customers_dataset.csv
+ 1000164 olist_geolocation_dataset.csv
+  112651 olist_order_items_dataset.csv
+  103887 olist_order_payments_dataset.csv
+  104720 olist_order_reviews_dataset.csv
+   99442 olist_orders_dataset.csv
+   32952 olist_products_dataset.csv
+    3096 olist_sellers_dataset.csv
+      71 product_category_name_translation.csv
